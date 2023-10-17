@@ -1,2 +1,2 @@
-# script-Drainer
-script Drainer
+first script Drainer
+write to me  [Crypto Drainer](https://t.me/cryptodralner) 
